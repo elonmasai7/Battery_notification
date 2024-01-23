@@ -11,4 +11,4 @@ if percent ≤ 30 and plugged≠true:
     description=str(percent) + "% Battery remainin!!",
     duration=5, 
   ).send()
-  
+ ## https://github.com/elonmasai7## 
